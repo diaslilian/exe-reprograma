@@ -18,22 +18,22 @@
 // 5261400319746371
 
 // function cartaoValido(num) {
-//   let digito = 0;
-//   let casaImpar = 0;
-//   let minhaArray = num.toString().split("");
+//   let soma = 0;
+//   let valor = 0;
+//   let cartaoRevert = num.toString().split("");
 
-//   for (let i = 0; i < minhaArray.length; i++) {
+//   for (let i = 0; i < cartaoRevert.length; i++) {
 //     if (i % 2 === 0) {
-//       if (minhaArray[i] * 2 >= 10) {
-//         casaImpar += minhaArray[i] * 2 - 9;
+//       if (cartaoRevert[i] * 2 >= 10) {
+//         valor += cartaoRevert[i] * 2 - 9;
 //       } else {
-//         casaImpar += minhaArray[i] * 2;
+//         valor += cartaoRevert[i] * 2;
 //       }
 //     } else {
-//       digito += parseInt(minhaArray[i]);
+//       soma += parseInt(cartaoRevert[i]);
 //     }
 //   }
-//   return (digito + casaImpar) % 10 === 0;
+//   return (soma + valor) % 10 === 0;
 // }
 
 // console.log(cartaoValido(5261400319746371));
@@ -55,9 +55,10 @@ let reduzCartao = cartao;
 let reverteCartao = reduzCartao.reverse().join("");
 // console.log(reverteCartao);
 
-//  verificar o indice e impar
+// variavel para soma de todos os numeros
 let soma = 0;
 
+//  verificar o indice e impar
 for (let i = 0; i < reverteCartao.length; i++) {
   let novoValor;
 
