@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Babirusa",
+    "classe": "Mamíferos",
+    "caracteristicas": "Aumento das presas caninas dos machos da espécie que perfuram a carne do focinho e se eles não rasparem a presa, ela pode chegar a até perfurar o crânio do animal."
+  },
+  {
+    "nome": "Ave-do-Paraíso",
+    "classe": "Aves",
+    "caracteristicas": "Plumagem exuberante da maioria dos machos, utilizada como ornamento nos rituais de acasalamento."
+  },
+  {
+    "nome": "Gavial",
+    "classe": "Répteis",
+    "caracteristicas": "Crocodilo que caracteriza-se pelo seu focinho longo e fino e o final do focinho semelhante a uma panela de barro conhecida na Índia como ghara."
+  },
+  {
+    "nome": "Tubarão-Duende",
+    "classe": "Condrictes",
+    "caracteristicas": "Animal que é raramente visto com vida porque habita águas profundas. Ele possui um longo nariz em forma de faca incorporada por minúsculas células e uma grande boca em forma de agulha, que é projetada para a frente quando abocanha a presa."
+  },
+  {
+    "nome": "Gazela-Girafa",
+    "classe": "Mamíferos",
+    "caracteristicas": "Pescoço muito longo e fino e quando fica na posição ereta com as duas patas traseiras, alonga seu pescoço e alcança ramos e galhos mais altos comendo brotos, ervas, flores e frutos."
+  },
+  {
+    "nome": "Colugo",
+    "classe": "Mamíferos",
+    "caracteristicas": "Animal muito tímido encontrado nas florestas do sudeste da Ásia e é considerado o planador mais capaz dos mamíferos deslizantes, atingindo até 70 metros de uma árvore para a outra sem perder muita altitude."
+  },
+  {
+    "nome": "Tartaruga Cabeça de Cobra",
+    "classe": "Répteis",
+    "caracteristicas": "Longo pescoço e semelhança a uma cobra, é considerado em alguns lugares do mundo como um animal exótico."
+  },
+  {
+    "nome": "Tenrec",
+    "classe": "Mamíferos",
+    "caracteristicas": "Pequeno animal com comprimento de 12 a 16,5 cm encontrado em Madagascar. Quando ameaçado por um predador, o Tenrec usa seus espinhos para produzir um som vibratório, que também é usado para se comunicar entre a espécie."
+  },
+  {
+    "nome": "Víbora-das-Árvores",
+    "classe": "Répteis",
+    "caracteristicas": "Cobra venenosa encontrada na África e é caracterizada pelas suas escamas inclinadas. Não se conhece muito sobre o veneno, mas há casos que levaram a hemorragia grave dos órgãos internos."
+  },
+  {
+    "nome": "Lagarto Tatu",
+    "classe": "Répteis",
+    "caracteristicas": "Vive em áreas desertas da África do Sul e o que mais chama a atenção nesse réptil é o seu sistema de defesa, se enrolando e mordendo a cauda, destacando suas escamas pontiagudas do corpo e sua cauda espinhosa. Esse comportamento é parecido com o do tatu e tatuzinho, que quando estão ameaçados se enrolam para proteger a parte mais vulnerável do corpo, a barriga."
+  }
+]

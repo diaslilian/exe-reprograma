@@ -1,0 +1,52 @@
+[
+  {
+    "nomeLinguagem": "Linguagem C",
+    "dataCriacao": "1972",
+    "criadaPor": "Dennis Ritchie"
+  },
+  {
+    "nomeLinguagem": "Linguagem C++",
+    "dataCriacao": "Década de 80",
+    "criadaPor": "Bjarne Stroustrup"
+  },
+  {
+    "nomeLinguagem": "Linguagem C#",
+    "dataCriacao": "2002",
+    "criadaPor": "Microsoft"
+  },
+  {
+    "nomeLinguagem": "Python",
+    "dataCriacao": "Anos 90",
+    "criadaPor": "Python Software Foundation"
+  },
+  {
+    "nomeLinguagem": "Ruby",
+    "dataCriacao": "1995",
+    "criadaPor": "Yukihiro Matsumoto"
+  },
+  {
+    "nomeLinguagem": "Google Go",
+    "dataCriacao": "2009",
+    "criadaPor": "Google"
+  },
+  {
+    "nomeLinguagem": "Objective-C",
+    "dataCriacao": "anos 80",
+    "criadaPor": "Brad Cox e Tom Love"
+  },
+  {
+    "nomeLinguagem": "Linguagem R",
+    "dataCriacao": "década de 90",
+    "criadaPor": "Ross Ihaka e Robert Gentleman"
+  },
+  {
+    "nomeLinguagem": "Visual Basic",
+    "dataCriacao": "década de 60",
+    "criadaPor": "John George Kemeny e Thomas Eugene Kurtz"
+  },
+  {
+    "nomeLinguagem": ".NET",
+    "dataCriacao": "2002",
+    "criadaPor": "Microsoft"
+  }
+]

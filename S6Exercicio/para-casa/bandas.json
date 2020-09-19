@@ -1,0 +1,115 @@
+[
+  {
+    "nomeBanda": "Thirty Seconds to Mars",
+    "genero": "Rock alternativo",
+    "membros": [
+      "Jared Leto",
+      "Tomo Miličević",
+      "Shannon Leto",
+      "Matt Wachter",
+      "Solon Bixler"
+    ]
+  },
+  {
+    "nomeBanda": "Nightwish",
+    "genero": "Metal sinfônico",
+    "membros": [
+      "Tuomas Holopainen",
+      "Emppu Vuorinen",
+      "Jukka Nevalainen",
+      "Marco Hietala",
+      "Troy Donockley",
+      "Floor Jansen",
+      "Tarja Turunen"
+    ]
+  },
+  {
+    "nomeBanda": "Lukas Nelson & Promise of the Real",
+    "genero": "Country Rock",
+    "membros": [
+      "Lukas Nelson",
+      " Anthony LoGerfo",
+      "Corey McCormick",
+      "Tato Melgar",
+      "Logan Metz",
+      "Merlyn Kelly"
+    ]
+  },
+  {
+    "nomeBanda": "Stone Sour",
+    "genero": "Rock alternativo",
+    "membros": [
+      "Corey Taylor",
+      "James Root",
+      "Christian Martucci",
+      "Josh Rand",
+      "Roy Mayorga",
+      "Johny Chow",
+      "Shawn Economaki",
+      "Joel Ekman"
+    ]
+  },
+  {
+    "nomeBanda": "Little Mix",
+    "genero": "Pop",
+    "membros": [
+      "Jade Thirlwall",
+      "Leigh-Anne Pinnock",
+      "Jesy Nelson",
+      "Perrie Edwards"
+    ]
+  },
+  {
+    "nomeBanda": "Fifth Harmony",
+    "genero": "Pop",
+    "membros": [
+      "Ally Brooke",
+      "Normani Kordei",
+      "Lauren Jauregui",
+      "Dinah Jane",
+      "Camila Cabello"
+    ]
+  },
+  {
+    "nomeBanda": "One Direction",
+    "genero": "Pop",
+    "membros": [
+      "Louis Tomlinson",
+      "Harry Styles",
+      "Liam Payne",
+      "Niall Horan",
+      "Zayn Malik"
+    ]
+  },
+  {
+    "nomeBanda": "The 1975",
+    "genero": "Pop rock",
+    "membros": ["Matty Healy", "Adam Hann", "George Daniel", "Ross MacDonald"]
+  },
+  {
+    "nomeBanda": "Creed",
+    "genero": "Post-grunge",
+    "membros": [
+      "Scott Stapp",
+      "Mark Tremonti",
+      "Scott Phillips",
+      "Brian Marshall",
+      "Brett Hestla",
+      "Eric Friedman",
+      "Brian Brasher"
+    ]
+  },
+  {
+    "nomeBanda": "Florence and the Machine",
+    "genero": "Indie rock",
+    "membros": [
+      "Florence Welch",
+      "Isabella Summers",
+      "Tom Monger",
+      "Robert Ackroyd",
+      "Christopher Lloyd Hayden",
+      "Mark Saunders",
+      "Rusty Bradshaw"
+    ]
+  }
+]
