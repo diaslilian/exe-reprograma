@@ -1,0 +1,63 @@
+[
+  {
+    "nome": "Mulher Maravilha",
+    "dataCriacao": 1941,
+    "interpretesAudiovisual": ["Mônica Bellucci", "Lynda Carter", "Gal Gadot"]
+  },
+  {
+    "nome": "Homem de Ferro",
+    "dataCriacao": 1963,
+    "interpretesAudiovisual": ["Robert Downey"]
+  },
+  {
+    "nome": "Homem Aranha",
+    "dataCriacao": 1962,
+    "interpretesAudiovisual": [
+      "Tobey Maguire",
+      "Tom Holland",
+      "Andrew Garfield"
+    ]
+  },
+  {
+    "nome": "Batman",
+    "dataCriacao": 1939,
+    "interpretesAudiovisual": [
+      "Michael Keaton",
+      "Val Kilmer",
+      "George Clooney",
+      "Christian Bale",
+      "Ben Affleck",
+      "Robert Pattison"
+    ]
+  },
+  {
+    "nome": "Hulk",
+    "dataCriacao": 1962,
+    "interpretesAudiovisual": ["Edward Norton", "Mark Ruffalo", "Bill Bixby"]
+  },
+  {
+    "nome": "Capitão América",
+    "dataCriacao": 1940,
+    "interpretesAudiovisual": ["Chris Evans"]
+  },
+  {
+    "nome": "Thor",
+    "dataCriacao": 1960,
+    "interpretesAudiovisual": ["Chris Hemsworth"]
+  },
+  {
+    "nome": "Flash",
+    "dataCriacao": 1940,
+    "interpretesAudiovisual": ["Ezra Miller"]
+  },
+  {
+    "nome": "Wolverine",
+    "dataCriacao": 1974,
+    "interpretesAudiovisual": ["Hugh Jackman"]
+  },
+  {
+    "nome": "Super – Homem",
+    "dataCriacao": 1938,
+    "interpretesAudiovisual": ["Christopher Reeve", "Henry Cavill"]
+  }
+]

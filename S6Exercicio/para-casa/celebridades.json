@@ -1,0 +1,75 @@
+[
+  {
+    "nomeArtistico": "Lady Gaga",
+    "nacionalidade": "Norte-Americana",
+    "ocupacao": [
+      "Cantora",
+      "Compositora",
+      "Dançarina",
+      "Atriz",
+      "Instrumentista",
+      "Filantropa",
+      "Produtora",
+      "Empresária"
+    ]
+  },
+  {
+    "nomeArtistico": "Camila Cabello",
+    "nacionalidade": "Cubana-Mexicana",
+    "ocupacao": ["Cantora", "Compositora", "Atriz"]
+  },
+  {
+    "nomeArtistico": "Normani Kordei",
+    "nacionalidade": "Norte-Americana",
+    "ocupacao": ["Cantora", "Dançarina"]
+  },
+  {
+    "nomeArtistico": "Iza",
+    "nacionalidade": "Brasileira",
+    "ocupacao": [
+      "Cantora",
+      "Compositora",
+      "Apresentadora",
+      "Instrumentista",
+      "Publicitária"
+    ]
+  },
+  {
+    "nomeArtistico": "Lauren Jauregui",
+    "nacionalidade": "Americana-Cubana",
+    "ocupacao": ["Cantora", "Compositora", "Ativista"]
+  },
+  {
+    "nomeArtistico": "Beyoncé",
+    "nacionalidade": "Norte-Americana",
+    "ocupacao": [
+      "Cantora",
+      "Compositora",
+      "Dançarina",
+      "Atriz",
+      "Modelo",
+      "Empresária",
+      "Produtora"
+    ]
+  },
+  {
+    "nomeArtistico": "Rihanna",
+    "nacionalidade": "Barbadiana",
+    "ocupacao": ["Cantora", "Compositora", "Empresária", "Atriz"]
+  },
+  {
+    "nomeArtistico": "Viola Davis",
+    "nacionalidade": "Norte-Americana",
+    "ocupacao": ["Atriz", "Produtora"]
+  },
+  {
+    "nomeArtistico": "Emma Watson",
+    "nacionalidade": "Britânica",
+    "ocupacao": ["Atriz", "Modelo", "Ativista"]
+  },
+  {
+    "nomeArtistico": "Jessica Chastain",
+    "nacionalidade": "Norte-Americana",
+    "ocupacao": ["Atriz", "Produtora"]
+  }
+]

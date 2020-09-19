@@ -1,0 +1,52 @@
+[
+  {
+    "titulo": "Lúcifer",
+    "genero": ["Fantasia urbana", "Policial processual", "Comédia dramática"],
+    "ano": 2016
+  },
+  {
+    "titulo": "Orphan Black",
+    "genero": ["Ficção científica", "Biopunk", "Drama", "Suspense"],
+    "ano": 2013
+  },
+  {
+    "titulo": "American Horror Story",
+    "genero": ["Terror"],
+    "ano": 2011
+  },
+  {
+    "titulo": "Stranger Things",
+    "genero": ["Terror"],
+    "ano": 2016
+  },
+  {
+    "titulo": "Grey's Anatomy",
+    "genero": ["Drama"],
+    "ano": 2005
+  },
+  {
+    "titulo": "Chicago Fire",
+    "genero": ["Drama"],
+    "ano": 2012
+  },
+  {
+    "titulo": "La Casa de Papel",
+    "genero": ["Crime", "Assalto", "Suspense", "Mistério"],
+    "ano": 2017
+  },
+  {
+    "titulo": "Chilling Adventures of Sabrina",
+    "genero": ["Terror", "Ficção supernatural"],
+    "ano": 2018
+  },
+  {
+    "titulo": "The Witcher",
+    "genero": ["Fantasia", "Drama", "Aventura", "Ação"],
+    "ano": 2019
+  },
+  {
+    "titulo": "Rick and Morty",
+    "genero": ["Sitcom"],
+    "ano": 2013
+  }
+]

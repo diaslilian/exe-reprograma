@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Pato de Pequim",
+    "lugarOrigem": "China",
+    "descricao": "O prato sofisticado é marcado por um sabor crocante, suculento e adocicado ao ser temperado com alho e molho de hoisin."
+  },
+  {
+    "nome": "Escargot",
+    "lugarOrigem": "França",
+    "descricao": "Caracóis são geralmente consumidos como aperitivo, servidos na casca e cozidos em uma deliciosa mistura de manteiga de alho e salsa."
+  },
+  {
+    "nome": "Moussaka",
+    "lugarOrigem": "Grecia",
+    "descricao": "Caçarola grega que mais parece uma lasanha italiana, são colocadas camadas de ingredientes em um molho de queijo béchamel, com carne moída ou cordeiro e berinjela."
+  },
+  {
+    "nome": "Masala Dosa",
+    "lugarOrigem": "Índia",
+    "descricao": "Parece mais um crepe, mas essa massa fininha, é feita com arroz e lentilhas, temperada ainda com purê de batatas cozidas e cebola frita, servida com uma dose generosa de chutney com alho."
+  },
+  {
+    "nome": "Flores Zucchini",
+    "lugarOrigem": "Toscana",
+    "descricao": "Essas exóticas flores de abobrinha são recheadas com um delicioso recheio, talvez ricota com ervas ou mussarela, e então mergulhadas em azeite, criando uma simples massa que lembra um tempurá."
+  },
+  {
+    "nome": "Teppanyaki",
+    "lugarOrigem": "Japão",
+    "descricao": "Existe um show à parte quando se vai consumir comidas feitas na brasa, como carne Kobe, frango ou frutos do mar."
+  },
+  {
+    "nome": "Laksa",
+    "lugarOrigem": "Malásia e Singapura",
+    "descricao": "Uma picante sopa de coco cremosa com macarrão, marisco, filetes de peixe, tofu, legumes, um ovo cozido, coentro e pimenta sambal."
+  },
+  {
+    "nome": "Som Tam",
+    "lugarOrigem": "Tailândia",
+    "descricao": "Salada à base de mamão verde desfiado é combinada com um ou todos os seguintes: açúcar de palma, alho, suco de limão, molho de peixe, suco de tamarindo, camarão seco e, muitas vezes, frutos do mar, tomate, cenoura, feijão e amendoim."
+  },
+  {
+    "nome": "Pavlova",
+    "lugarOrigem": "Austrália e Nova Zelândia",
+    "descricao": "Sobremesa que faz homenagem à bailarina russa Anna Pavlova. O merengue clássico leva chantilly coberto com maracujá, morango e kiwi."
+  },
+  {
+    "nome": "Feijoada",
+    "lugarOrigem": "Brasil",
+    "descricao": "A combinação de carne de porco com feijão preto ainda ganha acompanhamentos irresistíveis: couve, farofa, rodelas de laranja e arroz branco."
+  }
+]
