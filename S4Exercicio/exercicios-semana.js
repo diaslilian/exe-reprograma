@@ -38,51 +38,53 @@
 
 // console.log(cartaoValido(5261400319746371));
 
-let cartao = [5, 2, 6, 1, 4, 0, 0, 3, 1, 9, 7, 4, 6, 3, 7, 1];
+//  teste1
 
-// guardar digito para soma
-const digitoVerificador = cartao[cartao.length - 1];
-// console.log(digitoVerificador);
+// let cartao = [5, 2, 6, 1, 4, 0, 0, 3, 1, 9, 7, 4, 6, 3, 7, 1];
 
-//  remove o ultimo elemento
-cartao.pop();
+// // guardar digito para soma
+// const digitoVerificador = cartao[cartao.length - 1];
+// // console.log(digitoVerificador);
 
-// apos remocao do elemento
-let reduzCartao = cartao;
-// console.log(cartao);
+// //  remove o ultimo elemento
+// cartao.pop();
 
-// inverte a ordem do array
-let reverteCartao = reduzCartao.reverse().join("");
-// console.log(reverteCartao);
+// // apos remocao do elemento
+// let reduzCartao = cartao;
+// // console.log(cartao);
 
-// variavel para soma de todos os numeros
-let soma = 0;
+// // inverte a ordem do array
+// let reverteCartao = reduzCartao.reverse().join("");
+// // console.log(reverteCartao);
 
-//  verificar o indice e impar
-for (let i = 0; i < reverteCartao.length; i++) {
-  let novoValor;
+// // variavel para soma de todos os numeros
+// let soma = 0;
 
-  if ((i + 1) % 2 === 0) {
-    novoValor = reverteCartao[i];
-  } else {
-    novoValor = 2 * reverteCartao[i];
+// //  verificar o indice e impar
+// for (let i = 0; i < reverteCartao.length; i++) {
+//   let novoValor;
 
-    if (novoValor > 9) {
-      novoValor = novoValor - 9;
-    }
-  }
-  // somar todos os numeros
-  soma = Number(soma) + Number(novoValor);
-}
-// console.log("soma todos os numeros ", soma);
+//   if ((i + 1) % 2 === 0) {
+//     novoValor = reverteCartao[i];
+//   } else {
+//     novoValor = 2 * reverteCartao[i];
 
-//  soma para fazer validacao
-const resultado = Number(soma) + Number(digitoVerificador);
+//     if (novoValor > 9) {
+//       novoValor = novoValor - 9;
+//     }
+//   }
+//   // somar todos os numeros
+//   soma = Number(soma) + Number(novoValor);
+// }
+// // console.log("soma todos os numeros ", soma);
 
-//  cartao valido multiplo de 10
-const cartaoResultado = resultado % 10 === 0;
+// //  soma para fazer validacao
+// const resultado = Number(soma) + Number(digitoVerificador);
 
-console.log(cartaoResultado);
+// //  cartao valido multiplo de 10
+// const cartaoResultado = resultado % 10 === 0;
+
+// console.log(cartaoResultado);
 ///////////////////////
 
 // DESAFIO - saudar clientes
@@ -107,14 +109,29 @@ console.log(cartaoResultado);
 //   // etc
 // }
 
-// const baseClientes = {
-//   Clotilde: {
-//     visitas: 1,
-//   },
-//   Florinda: {
-//     visitas: 2,
-//   },
-//   Paty: {
-//     visitas: 3,
-//   },
-// }
+const baseClientes = {
+  Clotilde: {
+    visitas: 1,
+  },
+  Florinda: {
+    visitas: 2,
+  },
+  Paty: {
+    visitas: 3,
+  },
+};
+
+function saudarCliente(nome) {
+  const cliente = baseClientes[nome];
+  console.log("o que tem em cliente", baseClientes[nome]);
+
+  if (cliente === undefined || cliente === null) {
+    console.log("Olá, é a primeira vez por aqui?");
+  } else if (cliente === 1) {
+    console.log("Bem-vinda! Que bom que voltou!");
+  } else if (cliente < 1) {
+    console.log("Bem-vinda mais uma vez");
+  }
+}
+
+saudarCliente("Clotilde");
