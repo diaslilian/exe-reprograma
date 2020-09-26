@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Nasce Uma Estrela",
+    "genero": ["Romance", "Musical"],
+    "ano": "2018"
+  },
+  {
+    "id": 2,
+    "titulo": "Interestelar",
+    "genero": ["Ficção científica", "Aventura"],
+    "ano": "2014"
+  },
+  {
+    "id": 3,
+    "titulo": "Armas na Mesa",
+    "genero": ["Thriller", "Drama"],
+    "ano": "2016"
+  },
+  {
+    "id": 4,
+    "titulo": "A Chegada",
+    "genero": ["Ficção científica", "Thriller"],
+    "ano": "2016"
+  },
+  {
+    "id": 5,
+    "titulo": "Gladiador",
+    "genero": ["Ação", "Aventura"],
+    "ano": "2000"
+  },
+  {
+    "id": 6,
+    "titulo": "V de Vingança",
+    "genero": ["Ação", "Thriller"],
+    "ano": "2005"
+  },
+  {
+    "id": 7,
+    "titulo": "It - A Coisa",
+    "genero": ["Terror", "Thriller"],
+    "ano": "2017"
+  },
+  {
+    "id": 8,
+    "titulo": "O Lar das Crianças Peculiares",
+    "genero": ["Aventura", "Fantasia"],
+    "ano": "2016"
+  },
+  {
+    "id": 9,
+    "titulo": "O Rei do Show",
+    "genero": ["Musical", "Drama"],
+    "ano": "2017"
+  },
+  {
+    "id": 10,
+    "titulo": "Harry Potter",
+    "genero": ["Fantasia", "Aventura"],
+    "ano": "2005"
+  }
+]
