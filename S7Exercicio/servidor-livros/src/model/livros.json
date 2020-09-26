@@ -1,0 +1,65 @@
+[
+  {
+    "titulo": "Harry Potter",
+    "autor": " J. K. Rowling",
+    "generos": [
+      "Literatura fantástica",
+      "Drama",
+      "Ficção juvenil",
+      "Mistério",
+      "Suspense",
+      "Bildungsroman"
+    ]
+  },
+  {
+    "titulo": "O morro dos ventos uivantes",
+    "autor": "Emily Brontë",
+    "generos": ["Romance", "Ficção gótica", "Tragédia"]
+  },
+  {
+    "titulo": "Fallen",
+    "autor": "Lauren Kate",
+    "generos": ["Romance", "Fantasia", "Mistério"]
+  },
+  {
+    "titulo": "Um pequeno favor",
+    "autor": "Darcey Bell",
+    "generos": [
+      "Romance",
+      "Suspense",
+      "Suspense psicológico",
+      "Ficção policial",
+      "Romance psicológico"
+    ]
+  },
+  {
+    "titulo": "A Rainha Vermelha",
+    "autor": "Victoria Aveyard",
+    "generos": ["Literatura fantástica", "Ficção juvenil"]
+  },
+  {
+    "titulo": "Trono de Vidro",
+    "autor": "Sarah J. Maas",
+    "generos": ["Fantasia"]
+  },
+  {
+    "titulo": "Escuridão total sem estrelas",
+    "autor": "Stephen King",
+    "generos": ["Terror"]
+  },
+  {
+    "titulo": "O Festim dos Corvos",
+    "autor": "George R. R. Martin",
+    "generos": ["Fantasia épica"]
+  },
+  {
+    "titulo": "Percy Jackson e os Olimpianos",
+    "autor": "Rick Riordan",
+    "generos": ["Ação", "Aventura", "Comédia", "Fantasia", "Mitologia Grega"]
+  },
+  {
+    "titulo": "O Mar Infinito",
+    "autor": "Rick Yancey",
+    "generos": ["Romance", "Ficção científica"]
+  }
+]
