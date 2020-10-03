@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "titulo": "911",
+    "artista": "Lady Gaga",
+    "album": "Chromatica",
+    "duracao": "2:52",
+    "single": false
+  },
+  {
+    "id": 2,
+    "titulo": "Watermelon Sugar",
+    "artista": "Harry Styles",
+    "album": "Fine Line",
+    "duracao": "2:54",
+    "single": true
+  },
+  {
+    "id": 3,
+    "titulo": "Shameless",
+    "artista": "Camila Cabello",
+    "album": "Romance",
+    "duracao": "3:39",
+    "single": true
+  },
+  {
+    "id": 4,
+    "titulo": "Roaring 20s",
+    "artista": "Panic! At The Disco",
+    "album": "Pray for the Wicked",
+    "duracao": "3:06",
+    "single": false
+  },
+  {
+    "id": 5,
+    "titulo": "River",
+    "artista": "Bishop Briggs",
+    "album": "Church Of Scars",
+    "duracao": "3:36",
+    "single": true
+  },
+  {
+    "id": 6,
+    "titulo": "Think About Us",
+    "artista": "Little Mix",
+    "album": "LM5",
+    "duracao": "3:55",
+    "single": true
+  },
+  {
+    "id": 7,
+    "titulo": "Replay",
+    "artista": "Lady Gaga",
+    "album": "Chromatica",
+    "duracao": "3:06",
+    "single": false
+  },
+  {
+    "id": 8,
+    "titulo": "Shallow",
+    "artista": "Lady Gaga",
+    "album": "A Star Is Born",
+    "duracao": "3:37",
+    "single": true
+  },
+  {
+    "id": 9,
+    "titulo": "LIKE I WOULD",
+    "artista": "Zayn",
+    "album": "Mind Of Mine",
+    "duracao": "3:49",
+    "single": false
+  },
+  {
+    "id": 10,
+    "titulo": "Lights Up",
+    "artista": "Harry Styles",
+    "album": "Fine Line",
+    "duracao": "2:52",
+    "single": true
+  }
+]
