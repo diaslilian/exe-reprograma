@@ -71,7 +71,9 @@ const getStock = (req, res) => {
 // get books in stock: http://localhost:8080/books/stock
 
 const getCategory = (req, res) => {
-  res.status(200).send(books.filter((book) => book.genre.includes("Mystery")));
+  const genre = req.params.genre;
+
+  res.status(200).send(books.filter((book) => book.genre.includes(genre)));
 };
 
 // get books by category: http://localhost:8080/books/Mystery
